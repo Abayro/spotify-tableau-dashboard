@@ -1,5 +1,4 @@
 # spotify-tableau-dashboard
-# 🎵 Spotify Data Analysis Dashboard (Tableau)
 
 ## 📌 Overview
 This project analyzes Spotify dataset using Tableau to explore music trends, including artist performance, album insights, and song popularity.
